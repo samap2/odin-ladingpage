@@ -201,5 +201,14 @@ h4{
     border-radius: 10px; 
 }
 
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    height: 50px;
+}
+
 
 
